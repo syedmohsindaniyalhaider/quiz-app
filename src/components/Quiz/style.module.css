@@ -1,0 +1,46 @@
+/* .bg {
+  background-color: red;
+} */
+.right {
+  color: green;
+}
+.wrong {
+  color: red;
+}
+
+.fs-22 {
+  font-size: 22px;
+}
+
+.quiz {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 90vh;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  gap: 40px;
+}
+
+.btn {
+  border: none;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+.next {
+  background-color: #303841;
+}
+
+.submit {
+  background-color: #7dc383;
+}
